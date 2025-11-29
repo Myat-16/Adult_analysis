@@ -10,8 +10,8 @@
 
 ### Approaches
 1. Used a public Kaggle dataset to analyze:
-#### Average age of men
-#### Percentage with a Bachelor's degree
++ Average age of men
++ Percentage with a Bachelor's degree
 #### Percentage with advanced education earning >50K
 #### Percentage without advanced education earning >50K
 #### Minimum hours worked per week
