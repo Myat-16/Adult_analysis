@@ -1,3 +1,4 @@
+# Project Name: Adult Analysis
 # Data Source: https://archive.ics.uci.edu/dataset/2/adult
 ## Key Business Impacts
 1. Using average age insights helps design targeted development paths.
@@ -8,7 +9,7 @@
 6. Targeting top occupations among >$50K earners cuts mis-hire costs
 7. Understanding hours-worked vs. income improves pay structures, increasing revenue per employee.
 
-### Approaches
+### Approaches Details
 1. Used a public Kaggle dataset to analyze:
 + Average age of men
 + Percentage with a Bachelor's degree
