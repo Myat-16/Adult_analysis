@@ -1,5 +1,5 @@
 # Project Name: Adult Analysis
-# Data Source: https://archive.ics.uci.edu/dataset/2/adult
+### Data Source: https://archive.ics.uci.edu/dataset/2/adult
 ## Key Business Impacts
 1. Using average age insights helps design targeted development paths.
 2. Knowing Bachelor’s degree proportions strengthens university partnerships, filling high-potential roles.
